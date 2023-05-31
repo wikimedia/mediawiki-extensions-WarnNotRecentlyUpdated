@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sébastien Santoro aka Dereckson"
+		]
+	},
+	"warnnotrecentlyupdated-desc": "Warn on legacy, old or perimed content"
+}

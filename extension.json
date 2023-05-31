@@ -1,0 +1,35 @@
+{
+	"name": "WarnNotRecentlyUpdated",
+	"author": [
+		"Sébastien Santoro aka Dereckson"
+	],
+	"url": "https://www.mediawiki.org/wiki/Extension:WarnNotRecentlyUpdated",
+	"descriptionmsg": "warnnotrecentlyupdated-desc",
+	"license-name": "GPL-2.0-or-later",
+	"type": "interface",
+	"requires": {
+		"MediaWiki": ">= 1.35.0"
+	},
+	"AutoloadNamespaces": {
+		"MediaWiki\\Extension\\WarnNotRecentlyUpdated\\": "src/"
+	},
+	"config": {
+		"WarnNotRecentlyUpdatedDelay": {
+			"description": "Delay after a warning is shown",
+			"value": 31536000
+		},
+		"WarnNotRecentlyUpdatedPages": {
+			"description": "Namespaces, prefixes and message to show",
+			"value": []
+		}
+	},
+	"Hooks": {
+		"ArticleViewHeader": "MediaWiki\\Extension\\WarnNotRecentlyUpdated\\Hooks::onArticleViewHeader"
+	},
+	"MessagesDirs": {
+		"WarnNotRecentlyUpdated": [
+			"i18n"
+		]
+	},
+	"manifest_version": 2
+}

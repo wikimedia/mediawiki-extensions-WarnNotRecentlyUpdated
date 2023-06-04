@@ -66,7 +66,7 @@ class Hooks {
 	private static function getMessage( Article $article ): StringOption {
 		static $message;
 
-		if ( $mesage ) {
+		if ( $message ) {
 			return $message;
 		}
 

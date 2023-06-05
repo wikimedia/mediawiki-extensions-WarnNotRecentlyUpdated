@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Verdy p"
+		]
+	},
+	"warnnotrecentlyupdated-desc": "Affiche un avertissement en cas de contenu hérité, ancien ou périmé"
+}

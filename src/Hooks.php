@@ -23,6 +23,7 @@ use Article;
 use DateTime;
 use Html;
 use MediaWiki\Extension\WarnNotRecentlyUpdated\Utilities\StringOption;
+use ParserOutput;
 
 class Hooks {
 

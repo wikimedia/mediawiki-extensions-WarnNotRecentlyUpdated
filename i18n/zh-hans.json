@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Anterdc99"
+			"Anterdc99",
+			"LittlePaw365"
 		]
 	},
-	"warnnotrecentlyupdated-desc": "遗留、旧的或过期内容的警告"
+	"warnnotrecentlyupdated-desc": "警告遗留、旧的或到期内容"
 }

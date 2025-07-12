@@ -21,8 +21,8 @@ namespace MediaWiki\Extension\WarnNotRecentlyUpdated;
 
 use Article;
 use DateTime;
-use Html;
 use MediaWiki\Extension\WarnNotRecentlyUpdated\Utilities\StringOption;
+use MediaWiki\Html\Html;
 use ParserOutput;
 
 class Hooks {

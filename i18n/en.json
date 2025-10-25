@@ -4,5 +4,5 @@
 			"Sébastien Santoro aka Dereckson"
 		]
 	},
-	"warnnotrecentlyupdated-desc": "Warn on legacy, old or perimed content"
+	"warnnotrecentlyupdated-desc": "Display a warning for legacy, outdated, or deprecated content"
 }

@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Anterdc99",
+			"GuoPC",
 			"LittlePaw365"
 		]
 	},
-	"warnnotrecentlyupdated-desc": "警告遗留、旧的或到期内容"
+	"warnnotrecentlyupdated-desc": "显示对遗留、过时或弃用内容的警告"
 }

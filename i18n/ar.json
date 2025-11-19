@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Asma"
+			"Asma",
+			"Meno25"
 		]
 	},
-	"warnnotrecentlyupdated-desc": "تحذير بشأن المحتوى إرث أو القديم أو محاط"
+	"warnnotrecentlyupdated-desc": "عرض تحذير للمحتوى القديم أو القديم أو المنتهي"
 }

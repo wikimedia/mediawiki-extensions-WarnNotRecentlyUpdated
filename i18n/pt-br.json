@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Felipe L. Ewald"
+			"Felipe L. Ewald",
+			"Sixaxis"
 		]
 	},
-	"warnnotrecentlyupdated-desc": "Avisar sobre conteúdo legado, antigo ou perimido"
+	"warnnotrecentlyupdated-desc": "Mostrar um aviso sobre conteúdo legado, antigo ou obsoleto"
 }

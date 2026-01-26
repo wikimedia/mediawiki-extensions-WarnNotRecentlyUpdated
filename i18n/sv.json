@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sabelöga"
+			"Sabelöga",
+			"Stefan2255"
 		]
 	},
-	"warnnotrecentlyupdated-desc": "Varna för föråldrat, gammalt eller perimerat"
+	"warnnotrecentlyupdated-desc": "Visa en varning för äldre, föråldrat eller utfasat innehåll"
 }

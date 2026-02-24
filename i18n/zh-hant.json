@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kly"
+			"Kly",
+			"LowensteinYang"
 		]
 	},
-	"warnnotrecentlyupdated-desc": "老式、舊有、或是過期內容的警告"
+	"warnnotrecentlyupdated-desc": "針對舊式、過時、或已棄用的內容顯示警告"
 }

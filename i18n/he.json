@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80"
+			"Amire80",
+			"A100Star"
 		]
 	},
-	"warnnotrecentlyupdated-desc": "אזהרה על תוכן מיושן או פג־תוקף"
+	"warnnotrecentlyupdated-desc": "הצגת אזהרה לגבי תוכן ישן, לא מעודכן או כזה שהשימוש בו אינו מומלץ עוד"
 }
